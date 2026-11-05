@@ -1,0 +1,6 @@
+tensorflow>=2.12
+numpy
+opencv-python-headless
+scikit-learn
+matplotlib
+seaborn
